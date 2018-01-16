@@ -16,6 +16,14 @@ public class Libro
 		this.numeroPagine=numeroPagine;
 	}
 	
+	//costruttore copia
+	public Libro(Libro libro)
+	{
+		titolo=libro.getTitolo();
+		autore=libro.getAutore();
+		numeroPagine=libro.getNumeroPagine();
+	}
+	
 	//getter e setter
 	public String getTitolo()
 	{
