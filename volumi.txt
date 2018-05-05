@@ -1,0 +1,4 @@
+1;I promessi sposi;Manzoni;600;
+5;Moby Dick;Melville;650;
+6;Adelchi;Manzoni;200;
+10;Raccolta di Poesie;Manzoni;340;
